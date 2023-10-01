@@ -1,0 +1,6 @@
+
+# Ignore airflow-data folder
+/airflow-data/
+
+# pycache
+__pycache__
